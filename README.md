@@ -1,6 +1,7 @@
 # 지구를 부탁해
 ![image](https://user-images.githubusercontent.com/52192706/230775558-cca6a318-b073-4ab6-8f76-258836e3569f.png)
-이미지 링크: https://cms.ewha.ac.kr/user/cse/k2board/58210801_1_1655265596778.jpg
+
+포스터 링크: https://cms.ewha.ac.kr/user/cse/k2board/58210801_1_1655265596778.jpg
 
 ## 시연영상 링크
 V알조-지구를 지켜라 시연영상, 발표영상 : [Click](https://drive.google.com/drive/folders/1O0N3Wy7XDfYgtX12HROJLp6nWVB9Xo2z?usp=sharing)   
