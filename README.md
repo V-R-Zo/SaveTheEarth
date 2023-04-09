@@ -1,4 +1,6 @@
 # 지구를 부탁해
+![image](https://user-images.githubusercontent.com/52192706/230775558-cca6a318-b073-4ab6-8f76-258836e3569f.png)
+
 
 ## 시연영상 링크
 V알조-지구를 지켜라 시연영상, 발표영상 : [Click](https://drive.google.com/drive/folders/1O0N3Wy7XDfYgtX12HROJLp6nWVB9Xo2z?usp=sharing)   
